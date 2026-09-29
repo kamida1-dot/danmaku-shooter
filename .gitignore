@@ -1,0 +1,21 @@
+# 构建产物
+x64/
+*.obj
+*.pdb
+*.iobj
+*.ilk
+*.log
+*.ipch
+
+# IDE 缓存
+.vs/
+*.user
+*.suo
+
+# 分发目录（发布用，不进仓库）
+baka/
+
+# 预览图 / 其他项目
+*_preview.png
+圣诞树/
+圣诞树（1）/

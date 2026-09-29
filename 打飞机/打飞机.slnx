@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="打飞机/打飞机.vcxproj" Id="4057b7c9-1028-405a-9297-d6abee08ef37" />
+</Solution>

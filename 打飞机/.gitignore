@@ -1,0 +1,17 @@
+# 构建产物
+x64/
+*.obj
+*.pdb
+*.iobj
+*.ilk
+*.exe
+*.log
+
+# IDE 缓存
+.vs/
+*.user
+*.suo
+*.ipch
+
+# 分发目录（发布用，不进仓库）
+baka/
